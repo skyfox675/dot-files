@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1636293009,,"wq!"
+|2,0,1636303763,,"wq!"
 :wq
 |2,0,1636148353,,"wq"
 :q!
@@ -119,36 +119,52 @@
 |3,1,36,0,1,0,1636078185,","
 
 # File marks:
-'0  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml
-|4,48,57,73,1636293009,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml"
-'1  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
-|4,49,57,73,1636148353,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
-'2  113  19  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
-|4,50,113,19,1636148253,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
-'3  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
-|4,51,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
-'4  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,52,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
-'5  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,53,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
-'6  7  33  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-gqcmn.yaml
-|4,54,7,33,1636078189,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-gqcmn.yaml"
-'7  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-btqa5.yaml
-|4,55,57,73,1636075662,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-btqa5.yaml"
-'8  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-m8ylp.yaml
-|4,56,57,73,1636065839,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-m8ylp.yaml"
-'9  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-5kno6.yaml
-|4,57,57,73,1636057347,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-5kno6.yaml"
+'0  37  8  ~/.gitignore_global
+|4,48,37,8,1636303763,"~/.gitignore_global"
+'1  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml
+|4,49,57,73,1636293009,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml"
+'2  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
+|4,50,57,73,1636148353,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
+'3  113  19  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,51,113,19,1636148253,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+'4  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,52,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+'5  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,53,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+'6  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
+|4,54,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
+'7  7  33  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-gqcmn.yaml
+|4,55,7,33,1636078189,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-gqcmn.yaml"
+'8  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-btqa5.yaml
+|4,56,57,73,1636075662,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-btqa5.yaml"
+'9  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-m8ylp.yaml
+|4,57,57,73,1636065839,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-m8ylp.yaml"
 
 # Jumplist (newest first):
+-'  37  8  ~/.gitignore_global
+|4,39,37,8,1636303763,"~/.gitignore_global"
+-'  1  0  ~/.gitignore_global
+|4,39,1,0,1636303750,"~/.gitignore_global"
 -'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml
 |4,39,57,73,1636293009,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml
+|4,39,57,73,1636293009,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml
+|4,39,1,0,1636292993,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml
 |4,39,1,0,1636292993,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml"
 -'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
 |4,39,57,73,1636148353,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
 -'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
 |4,39,57,73,1636148353,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
+|4,39,57,73,1636148353,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
+|4,39,57,73,1636148353,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
+|4,39,1,0,1636148294,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
+|4,39,1,0,1636148294,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
 |4,39,1,0,1636148294,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fr3ia.yaml
@@ -161,6 +177,22 @@
 |4,39,113,19,1636148253,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
 -'  113  19  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
 |4,39,113,19,1636148253,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+-'  113  19  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,39,113,19,1636148253,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+-'  113  19  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,39,113,19,1636148253,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+-'  113  19  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,39,113,19,1636148253,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+-'  113  19  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,39,113,19,1636148253,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,39,1,0,1636148022,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,39,1,0,1636148022,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,39,1,0,1636148022,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
+|4,39,1,0,1636148022,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
 |4,39,1,0,1636148022,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-k0i3n.yaml
@@ -185,6 +217,38 @@
 |4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
 -'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
 |4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,57,73,1636137805,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
+-'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
+|4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
 |4,39,1,0,1636137796,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-fyyhf.yaml
@@ -233,6 +297,38 @@
 |4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
 -'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
 |4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
+-'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
+|4,39,57,73,1636135900,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
 |4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
@@ -245,104 +341,15 @@
 |4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
 -'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
 |4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml
-|4,39,1,0,1636135894,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-jghxa.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  57  73  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,57,73,1636126810,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,1,0,1636126799,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,1,0,1636126799,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,1,0,1636126799,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,1,0,1636126799,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,1,0,1636126799,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
--'  1  0  /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml
-|4,39,1,0,1636126799,"/private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-twdvc.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore_global
+	*	1636303762	0
+	"	37	8
+	^	37	9
+	.	37	8
+	+	37	8
 
 > /private/var/folders/f8/hqqzpn753vldnx_6t9wwdsrr0000gn/T/kubectl-edit-27ghg.yaml
 	*	1636293007	0
